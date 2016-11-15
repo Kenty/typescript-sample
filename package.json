@@ -1,0 +1,17 @@
+{
+  "name": "typescript-sample",
+  "version": "1.0.0",
+  "description": "This repository is sample project. Use TypeScript, Webpack and to manage the package from NPM to YARN.",
+  "main": "index.js",
+  "author": "Kenta Hoshino <kent6223@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "ts-loader": "^1.2.0",
+    "webpack": "^1.13.3"
+  },
+  "dependencies": {
+    "@types/jquery": "^2.0.34",
+    "jquery": "^3.1.1"
+  }
+}
